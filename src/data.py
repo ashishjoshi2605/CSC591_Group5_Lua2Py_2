@@ -6,7 +6,9 @@ class DATA:
     def __init__(self, src) -> None:
         self.rows = []
         self.cols = None
+
         self.total_values = 0
+
 
         if type(src) == str:
             self.from_csv(src)
@@ -48,6 +50,7 @@ class DATA:
                 split_line = [utils.coerce(i) for i in split_line]
                 self.add(split_line)
                 self.total_values += len(split_line)
+
 
     
     def from_list(self, lines):
