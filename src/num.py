@@ -19,19 +19,21 @@ class NUM:
 
         if(txt):
             self.txt = txt
+            if(self.txt[-1]=='-'):
+                self.w=-1
+            else:
+                self.w=1
         else:
             self.txt= ""
 
-        if(self.txt[-1]=='-'):
-            self.w=-1
-        else:
-            self.w=1
+        
 
 
     def add(self,n) -> None:
         '''
         Add 'n', update lo,hi and stuff needed for standard deviation
         '''
+        # print("num being added : {} with type {}".format(n, type(n)))
         if(n!='?'):
             self.n=self.n+1
             d=n-self.mu
@@ -41,13 +43,13 @@ class NUM:
             self.hi= max(n,self.hi)
         
 
-    def mid(self,x) -> float:
+    def mid(self) -> float:
         '''
         Return mean
         '''
         return self.mu
 
-    def div(self,x) -> float:
+    def div(self) -> float:
         '''
         Return standard deviation using Welford's algorithm http://t.ly/nn_W
         '''
@@ -60,5 +62,5 @@ class NUM:
         if(x=='?'):
             return x
         else:
-            self.rnd(x,n)
+            return round(x,n)
         
