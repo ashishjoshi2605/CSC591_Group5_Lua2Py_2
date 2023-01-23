@@ -7,6 +7,9 @@ class DATA:
         self.rows = []
         self.cols = None
 
+        self.total_values = 0
+
+
         if type(src) == str:
             self.from_csv(src)
         else:
@@ -14,8 +17,8 @@ class DATA:
     
     def add(self, t) -> None:
         if self.cols :
-            if t.cells != None :
-                t = ROWS(t)
+            # if t.cells != None :
+            t = ROWS(t)
             self.rows.append(t)
             self.cols.add(t)
         else:
@@ -25,27 +28,29 @@ class DATA:
         return copy.deepcopy(self)
 
     def stats(self, what, cols, nPlaces):
+        ret = dict()
         if cols == None:
             cols = self.cols.y
-        if what == None:
-            what = "mid"
-        ret = []
-        for col in cols:
-            if what == "mid":
-                ret.append(col.rnd(col.mid(), nPlaces))
-            else:
-                ret.append(col.rnd(col.div(), nPlaces)) 
-        
-        return ret
+
+        if what == "mid":
+            for col in cols :
+                ret[col.txt] = col.rnd(col.mid(), nPlaces)
+            return ret
+        else:
+            for col in cols :
+                ret[col.txt] = col.rnd(col.div(), nPlaces)
+            return ret
 
     def from_csv(self, src):
-        path = "../etc/data/{}".format(src)
+        path = src
         with open(path, "r") as csv:
             lines = csv.readlines()
             for line in lines:
                 split_line = line.split(",")
                 split_line = [utils.coerce(i) for i in split_line]
                 self.add(split_line)
+                self.total_values += len(split_line)
+
 
     
     def from_list(self, lines):
