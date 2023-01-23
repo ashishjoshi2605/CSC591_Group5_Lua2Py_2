@@ -60,5 +60,5 @@ class NUM:
         if(x=='?'):
             return x
         else:
-            self.rnd(x,n)
+            round(x,n)
         
