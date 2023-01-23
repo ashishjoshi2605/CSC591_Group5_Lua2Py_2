@@ -1,5 +1,6 @@
 import sys
 sys.path.append("./src")
+
 from num import NUM
 from sym import SYM
 from data import DATA
@@ -7,6 +8,9 @@ import utils
 import main
 from egs import Egs
 
+
+stdoutOrigin = sys.stdout 
+sys.stdout = open("./etc/out/test_engine.out", "w", encoding="utf-8")
 
 help = '''
 data.lua : an example csv reader script
@@ -77,6 +81,9 @@ tester.eg("stats","stats from DATA", test6)
 
 
 main.main(the, tester.help, tester.egs)
+
+# sys.stdout.close()
+# sys.stdout = stdoutOrigin
 
 
 
