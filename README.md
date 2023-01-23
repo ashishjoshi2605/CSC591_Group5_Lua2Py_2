@@ -1,4 +1,3 @@
-# CSC591_Group5_Lua2Py_2
 
 <div align="center"> 
   
@@ -6,6 +5,7 @@
   
 </div>
 
+<div align="center"> 
   
 ## Migrating LUA CodeBase to Python
 
@@ -16,9 +16,9 @@
 
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ashishjoshi2605/CSC591_Group5_Lua2Py?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ashishjoshi2605/csc591_Group5_Lua2Py?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/pulls)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/ashishjoshi2605/CSC591_Group5_Lua2Py?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/pulls?q=is%3Apr+is%3Aclosed)<br/>
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/pulls?q=is%3Apr+is%3Aclosed)<br/>
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)
 [![contributors](https://img.shields.io/github/contributors/ashishjoshi2605/CSC591_Group5_Lua2Py_2)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/graphs/contributors?style=plastic)
