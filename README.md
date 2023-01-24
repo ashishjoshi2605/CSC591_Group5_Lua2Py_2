@@ -13,6 +13,12 @@
 [![language](https://img.shields.io/github/languages/top/ashishjoshi2605/CSC591_Group5_Lua2Py_2)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/search?l=python)<br/>
   
 [![DOI](https://zenodo.org/badge/592043798.svg)](https://zenodo.org/badge/latestdoi/592043798)<br/>
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ashishjoshi2605/CSC591_Group5_Lua2Py_2/test.yml)
+
+
+[![Tests](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/test.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/test.yml)
+[![Python Style Checker](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_style_checker.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_style_checker.yml)
+[![Pylint](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/plint.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/plint.yml)
 
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/issues)
