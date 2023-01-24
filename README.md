@@ -23,6 +23,7 @@
 
 [![Tests](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/test.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/test.yml)
 [![Python Style Checker](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_style_checker.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_style_checker.yml)
+[![Python Syntax Checker](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_syntax_checker.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_syntax_checker.yml)
 [![Pylint](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/pylint.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/pylint.yml)
 
 
