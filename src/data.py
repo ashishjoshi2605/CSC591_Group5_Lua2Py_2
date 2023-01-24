@@ -54,7 +54,7 @@ class DATA:
 
     
     def from_list(self, lines):
-        if src == None:
+        if self.src == None:
             src = []
         
         for line in lines:
