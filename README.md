@@ -9,6 +9,10 @@
   
 ## Migrating LUA CodeBase to Python
 
+<p align="center">
+  <img width="400" height="400" src="https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/blob/main/etc/img/logo.png">
+</p>
+
 [![license](https://img.shields.io/github/license/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi260/CSC591_Group5_Lua2Py_2/blob/main/LICENSE.md)
 [![language](https://img.shields.io/github/languages/top/ashishjoshi2605/CSC591_Group5_Lua2Py_2)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/search?l=python)<br/>
   
