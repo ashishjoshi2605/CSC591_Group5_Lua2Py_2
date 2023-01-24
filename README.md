@@ -25,6 +25,7 @@
 [![Python Style Checker](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_style_checker.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_style_checker.yml)
 [![Python Syntax Checker](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_syntax_checker.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_syntax_checker.yml)
 [![Pylint](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/pylint.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/pylint.yml)
+![](https://img.shields.io/github/repo-size/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)</br>
 
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/issues)
@@ -97,5 +98,5 @@
 
 ## 🤝 Contributions by:-
 - [👨‍💻 Ashish Joshi](https://github.com/ashishjoshi2605)(ashishjoshi2605, ajoshi24)
-- [👩‍💻 Aoishi Das](https://github.com/Aoishi28)(Aoishi268)
+- [👩‍💻 Aoishi Das](https://github.com/Aoishi28)(Aoishi28)
 - [👩‍💻 Swarnamalya Mohan](https://github.com/swarnamalyamohan)(swarnamalyamohan)
