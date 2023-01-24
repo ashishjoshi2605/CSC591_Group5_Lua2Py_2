@@ -12,8 +12,9 @@
 [![license](https://img.shields.io/github/license/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi260/CSC591_Group5_Lua2Py_2/blob/main/LICENSE.md)
 [![language](https://img.shields.io/github/languages/top/ashishjoshi2605/CSC591_Group5_Lua2Py_2)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/search?l=python)<br/>
   
-[![DOI](https://zenodo.org/badge/592043798.svg)](https://zenodo.org/badge/latestdoi/592043798)<br/>
+[![DOI](https://zenodo.org/badge/592043798.svg)](https://zenodo.org/badge/latestdoi/592043798)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ashishjoshi2605/CSC591_Group5_Lua2Py_2/test.yml)
+ [![codecov](https://codecov.io/gh/ashishjoshi2605/CSC591_Group5_Lua2Py_2/branch/main/graph/badge.svg?token=YA3J2DNS04)](https://codecov.io/gh/ashishjoshi2605/CSC591_Group5_Lua2Py_2)
 
 
 [![Tests](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/test.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/test.yml)
