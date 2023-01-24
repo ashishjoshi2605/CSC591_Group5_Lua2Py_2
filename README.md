@@ -91,6 +91,6 @@
 
 
 ## 🤝 Contributions by:-
-- [👨‍💻 Ashish Joshi](https://github.com/ashishjoshi2605)
-- [👩‍💻 Aoishi Das](https://github.com/Aoishi28)
-- [👩‍💻 Swarnamalya Mohan](https://github.com/swarnamalyamohan)
+- [👨‍💻 Ashish Joshi](https://github.com/ashishjoshi2605)(ashishjoshi2605, ajoshi24)
+- [👩‍💻 Aoishi Das](https://github.com/Aoishi28)(Aoishi268)
+- [👩‍💻 Swarnamalya Mohan](https://github.com/swarnamalyamohan)(swarnamalyamohan)
