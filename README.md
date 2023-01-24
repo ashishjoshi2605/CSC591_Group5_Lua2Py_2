@@ -23,7 +23,7 @@
 
 [![Tests](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/test.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/test.yml)
 [![Python Style Checker](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_style_checker.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/python_style_checker.yml)
-[![Pylint](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/plint.yml/badge.svg?branch=main)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/plint.yml)
+[![Pylint](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/pylint.yml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/actions/workflows/pylint.yml)
 
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/ashishjoshi2605/CSC591_Group5_Lua2Py_2?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_2/issues)
@@ -70,11 +70,11 @@
     
   - Display help menu: 
   
-    $ python ./test/test_engine.py -h true
+    $ python ./Tests/Test_engine.py -h true
     
   - Run all the tests:
   
-    $ python ./test/test_engine.py -g all
+    $ python ./Tests/Test_engine.py -g all
     
 
 
